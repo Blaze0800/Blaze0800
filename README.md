@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Aman Dhiman and I'm a Web Developer from India</h2>
 
 ###
 
@@ -53,9 +53,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Blaze0800/Blaze0800/output/snake.svg" alt="Snake animation" />
 
 ###
 
