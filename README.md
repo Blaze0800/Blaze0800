@@ -1,6 +1,16 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 # 💫 About Me:
 Hi 👋! My name is Aman Dhiman and I'm a Web Developer, from India.
 
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Blaze0800.Blaze0800&"  />
+</div>
+
+###
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-dhiman-cs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/amandhiman130) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amandhiman130@gmail.com) 
@@ -11,6 +21,16 @@ Hi 👋! My name is Aman Dhiman and I'm a Web Developer, from India.
 ![](https://github-readme-stats.vercel.app/api?username=Blaze0800&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Blaze0800&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blaze0800&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31ex7krjhmq5iurkjfykgomay3ay">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ex7krjhmq5iurkjfykgomay3ay&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Blaze0800&theme=radical&no-frame=true&no-bg=true&margin-w=4)
