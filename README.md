@@ -23,7 +23,7 @@ Hi 👋! My name is Aman Dhiman and I'm a Web Developer, from India.
 ![](https://nirzak-streak-stats.vercel.app/?user=Blaze0800&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blaze0800&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-###
+### Spotify
 
 <div align="center">
   <a href="https://open.spotify.com/user/31ex7krjhmq5iurkjfykgomay3ay">
@@ -32,9 +32,6 @@ Hi 👋! My name is Aman Dhiman and I'm a Web Developer, from India.
 </div>
 
 ###
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Blaze0800&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
